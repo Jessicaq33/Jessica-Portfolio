@@ -1,16 +1,5 @@
 # My Portfolio
 
-<!-- buttons using https://shields.io/ -->
-
-[![Skills](https://img.shields.io/badge/-HTML--5-green?style=for-the-badge)](#Skills)
-[![Skills](https://img.shields.io/badge/-CSS--3-yellowgreen?style=for-the-badge)](#Skills)
-[![Skills](https://img.shields.io/badge/-JS-yellow?style=for-the-badge)](#Skills)
-[![Skills](https://img.shields.io/badge/-Bootstrap-orange?style=for-the-badge)](#Skills)
-[![Skills](https://img.shields.io/badge/-Isotope-red?style=for-the-badge)](#Skills)
-
-<!--Colors avalible: brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
-success, important, critical, informational, inactive, blue, violet -->
-
 Hi there! 🙌
 
 My name is ________ and I want to welcome you to my portfolio! A little about me:
@@ -25,13 +14,26 @@ Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur
 
 <!-- project preview -->
 
-[![Notebook Preview](# link an image of your portfolio)](# link to redirect when clicked)
+[![Notebook Preview](# link an image of your portfolio)](/link_to_image)
 
 <br>
 
+# Packages
+
+<!-- buttons using https://shields.io/ -->
+
+[![Skills](https://img.shields.io/badge/-HTML--5-green?style=for-the-badge)](#Skills)
+[![Skills](https://img.shields.io/badge/-CSS--3-yellowgreen?style=for-the-badge)](#Skills)
+[![Skills](https://img.shields.io/badge/-JS-yellow?style=for-the-badge)](#Skills)
+[![Skills](https://img.shields.io/badge/-Bootstrap-orange?style=for-the-badge)](#Skills)
+[![Skills](https://img.shields.io/badge/-Isotope-red?style=for-the-badge)](#Skills)
+
+<!--Colors avalible: brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
+success, important, critical, informational, inactive, blue, violet -->
+
 # License
 
-[MIT Public License](# link to your license file)
+[MIT Public License](/link_to_license_file)
 
 <br>
 
