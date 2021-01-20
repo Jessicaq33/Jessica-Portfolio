@@ -1,7 +1,3 @@
-<!-- Add banner here -->
-
-[![Header](#link to your header/banner image)](#Header)
-
 # My Portfolio
 
 <!-- buttons using https://shields.io/ -->
