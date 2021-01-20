@@ -14,7 +14,7 @@ Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur
 
 <!-- project preview -->
 
-[![Notebook Preview](/link_to_image)](/link_to_portfolio)
+[![Portfolio Preview](/assets/img/preview.png)](/link_to_portfolio)
 
 <br>
 
