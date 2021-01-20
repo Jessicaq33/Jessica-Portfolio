@@ -14,7 +14,7 @@ Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur
 
 <!-- project preview -->
 
-[![Notebook Preview](# link an image of your portfolio)](/link_to_image)
+[![Notebook Preview](/link_to_image)](/link_to_portfolio)
 
 <br>
 
@@ -30,6 +30,8 @@ Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur
 
 <!--Colors avalible: brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, 
 success, important, critical, informational, inactive, blue, violet -->
+
+<br>
 
 # License
 
