@@ -1,6 +1,8 @@
-# My Portfolio
+# My Portfolio Template
 
 Hi there! 🙌
+
+If you downloaded this template, make sure to update the README too! Update any or all info listed on this Markdown file to make it your own, starting with adding your name.
 
 My name is ________ and I want to welcome you to my portfolio! A little about me:
 
