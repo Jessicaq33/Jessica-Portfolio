@@ -17,33 +17,4 @@
       });
     });
   });
-
-  //Pictures
-  var owl = $(".owl-carousel");
-  owl.owlCarousel({
-    loop: true,
-    autoplaySpeed: 1000,
-    items: 1,
-    autoplay: true,
-  });
-
-  // Back To Top
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > 100) {
-      $(".back-to-top").fadeIn("slow");
-    } else {
-      $(".back-to-top").fadeOut("slow");
-    }
-  });
-
-  $(".back-to-top").click(function () {
-    $("html, body").animate(
-      {
-        scrollTop: 0,
-      },
-      1500,
-      "easeInOutExpo"
-    );
-    return false;
-  });
 })(jQuery);

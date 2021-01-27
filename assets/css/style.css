@@ -96,17 +96,6 @@ section {
     color: #45505b;
 }
 
-/* .section-title h2::before {
-    content: '';
-    position: absolute;
-    display: block;
-    width: 120px;
-    height: 1px;
-    background: #ddd;
-    bottom: 1px;
-    left: calc(50% - 60px);
-} */
-
 .section-title h2::after {
     content: '';
     position: absolute;
@@ -148,10 +137,6 @@ section {
     color: #272829;
     margin-bottom: 5px;
     transition: all 0.3s ease-in-out;
-}
-
-.portfolio #portfolio-fltrs li:hover, .portfolio #portfolio-fltrs li.filter-active {
-    color: #382a4f;
 }
 
 .portfolio #portfolio-fltrs li:last-child {
@@ -276,61 +261,6 @@ section {
     right: 15px;
 }
 
-/* # Portfolio Details
-*/
-.portfolio-details {
-    padding: 40px 0;
-}
-
-.portfolio-details .portfolio-title {
-    font-size: 26px;
-    font-weight: 700;
-    margin-bottom: 20px;
-    }
-
-.portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
-    margin-top: 5px;
-    text-align: center;
-}
-
-.portfolio-details .portfolio-details-carousel .owl-dot {
-    display: inline-block;
-    margin: 0 5px;
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    background-color: #ddd !important;
-}
-
-.portfolio-details .portfolio-details-carousel .owl-dot.active {
-    background-color: #382a4f !important;
-}
-
-.portfolio-details .portfolio-info {
-    padding-top: 45px;
-}
-
-.portfolio-details .portfolio-info h3 {
-    font-size: 22px;
-    font-weight: 400;
-    margin-bottom: 20px;
-}
-
-.portfolio-details .portfolio-info ul {
-    list-style: none;
-    padding: 0;
-    font-size: 15px;
-}
-
-.portfolio-details .portfolio-info ul li + li {
-    margin-top: 10px;
-}
-
-.portfolio-details .portfolio-info p {
-    font-size: 15px;
-    padding: 15px 0 0 0;
-}
-
 @media (max-width: 992px) {
     .portfolio-details .portfolio-info {
         padding-top: 20px;
@@ -438,13 +368,6 @@ section {
     margin: 0 0 15px 0;
 }
 
-#footer p {
-    font-size: 15;
-    font-style: italic;
-    padding: 0;
-    margin: 0 0 40px 0;
-}
-
 #footer .social-links {
     margin: 0 0 40px 0;
 }
@@ -468,14 +391,6 @@ section {
     background: #743c52;
     color: #fff;
     text-decoration: none;
-}
-
-#footer .copyright {
-    margin: 0 0 5px 0;
-}
-
-#footer .credits {
-    font-size: 13px;
 }
 
 
