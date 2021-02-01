@@ -16,7 +16,7 @@ Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur
 
 <!-- project preview -->
 
-[![Portfolio Preview](/assets/img/preview.png)](https://caly-pso.github.io/portfolio_website_template/)
+[![Portfolio Preview](/assets/img/site_template.gif)](https://caly-pso.github.io/portfolio_website_template/)
 
 <br>
 
