@@ -94,6 +94,8 @@ Add links to your GitHub, LinkedIn, Medium, Twitter, YouTube, etc. You can find 
 #### Step 3: Update the Isotope filter
 In order to sort and filter the projects, I used the plugin Isotope. You can customize these filters to be anything you want. But make sure you change both the filter options under the `ul id="portfolio-fltrs"` section, and within each portfolio item's div class.
 
+#### Step 4: Create your own README
+Under `assets/sampleREADME.md` you will find a template README you can fill out, and save to the root of your repository. Any time your repo is visited, it will show up on your main page, giving more info about you and what you want to showcase.
 <br>
 
 
@@ -102,7 +104,7 @@ In order to sort and filter the projects, I used the plugin Isotope. You can cus
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <a href="https://pages.github.com/" target="_blank"><img width="500" src="/assets/img/makearepo.png"></a>
+  <a href="#"><img width="500" src="/assets/img/makearepo.png"></a>
 </p>
 
 
@@ -162,8 +164,10 @@ After 5-10 minutes your website will be viewable at: https://username.github.io.
 
 # About:
 
-I created this website to improve my own skills and am happy to share it! To see my other projects, check out my [GitHub](https://github.com/caly-pso). 
-
+I created this website to improve my own skills and am happy to share it! To see my other projects, check out my GitHub: 
+<p align="center">
+  <a href="https://github.com/caly-pso" target="_blank"><img width="700" src="/assets/img/mygithub.png"></a>
+</p>
 <!-- To learn how to make your own website, similar to mine, [check out how it was made](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/create_a_bootstrap_website.md)! -->
 
 ###### [(Back to top)](#table-of-contents)
