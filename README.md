@@ -79,10 +79,10 @@ Now that you have the files on your local computer, you can open them in a text 
 
 The first thing you will want to do is to customize the index.html page. This includes a projects section, about section, resume section, and a footer where you can link your GitHub, Twitter, etc. 
 
-##### Step 1: Put in your name 
+#### Step 1: Put in your name 
 At the top, in the about section, and anywhere else you want to display it.
 
-##### Step 2: Update the sections 
+#### Step 2: Update the sections 
 Customize the projects section with images of your own projects and place them in the `assets/img/portfolio folder`. Update the path names of the images displayed, and link them to your GitHub to display the code.
 
 Add your image to the About section, as well as your city, email, interests, and skills.
