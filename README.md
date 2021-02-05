@@ -25,6 +25,7 @@ How you can clone my portfolio website, edit it, and host it on GitHub Pages for
 - [Cloning the Repo](#Cloning-the-Repo)
 - [Making Changes](#Making-Changes)
 - [Use GitHub Pages to Host](#Use-GitHub-Pages-to-Host)
+- [Checkout Your Site](#Checkout-Your-Site)
 
 <br>
 
@@ -72,7 +73,7 @@ OR
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <img width="300" src="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/img/file_structure.png">
+  <a href="#Making-Changes"><img width="300" src="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/img/file_structure.png"></a>
 </p>
 
 Now that you have the files on your local computer, you can open them in a text editor. The file structure should be what you see above. 
@@ -104,7 +105,7 @@ Under `assets/sampleREADME.md` you will find a template README you can fill out,
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <a href="#"><img width="500" src="/assets/img/makearepo.png"></a>
+  <a href="https://pages.github.com/"><img width="500" src="/assets/img/makearepo.png"></a>
 </p>
 
 
@@ -152,12 +153,12 @@ OR
         
 </details>
 
-#### Finally:
+#### Checkout Your Site:
 After 5-10 minutes your website will be viewable at: https://username.github.io. If it is not there, check your repo's setting to ensure the GitHub Pages source is pointing to the correct branch. 
 
 
 <p align="center">
-  <a href="https://pages.github.com/" target="_blank"><img width="500" src="/assets/img/pagesoptions.png"></a>
+  <a href="#Checkout-Your-Site" target="_blank"><img width="500" src="/assets/img/pagesoptions.png"></a>
 </p>
 
 <br>
