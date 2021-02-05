@@ -102,7 +102,7 @@ In order to sort and filter the projects, I used the plugin Isotope. You can cus
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <a href="https://pages.github.com/" target="_blank"><img width="300" src="/assets/img/makearepo.png"></a>
+  <a href="https://pages.github.com/" target="_blank"><img width="500" src="/assets/img/makearepo.png"></a>
 </p>
 
 
@@ -152,6 +152,11 @@ OR
 
 #### Finally:
 After 5-10 minutes your website will be viewable at: https://username.github.io. If it is not there, check your repo's setting to ensure the GitHub Pages source is pointing to the correct branch. 
+
+
+<p align="center">
+  <a href="https://pages.github.com/" target="_blank"><img width="500" src="/assets/img/pagesoptions.png"></a>
+</p>
 
 <br>
 
