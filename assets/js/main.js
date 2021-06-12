@@ -3,7 +3,7 @@
 
   //filter
   $(window).on("load", function () {
-    var portfolioIsotope = $(".portfolio-container").isotope({
+    const portfolioIsotope = $(".portfolio-container").isotope({
       itemSelector: ".portfolio-item",
       layoutMode: "fitRows",
     });
